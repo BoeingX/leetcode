@@ -23,4 +23,5 @@
 | 102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)  | Easy  | [C++](./algorithms/binaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.cpp)  |
 | 100  | [Same Tree](https://leetcode.com/problems/same-tree/)  | Easy  | [C++](./algorithms/sameTree/sameTree.cpp)  |
 | 66  | [Plus One](https://leetcode.com/problems/plus-one/)  | Easy  | [C++](./algorithms/plus-one/plus-one.cpp)  |
+| 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)  | Easy  | [C++](./algorithms/valid-parentheses/valid-parentheses.cpp)  |
 | 9  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)  | Easy  | [C++](./algorithms/palindrome-number/palindrome-number.cpp)  |
