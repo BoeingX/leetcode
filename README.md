@@ -15,6 +15,7 @@
 | 226  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy  | [C++](./algorithms/invertBinaryTree/invertBinaryTree.cpp)  |
 | 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy  | [C++](./algorithms/containsDuplicate/containsDuplicate.cpp)  |
 | 191  | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)  | Easy  | [C++](./algorithms/numberOf1Bits/numberOf1Bits.cpp)  |
+| 190  | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)  | Easy  | [C++](./algorithms/reverse-bits/reverse-bits.cpp)  |
 | 169  | [Majority Element](https://leetcode.com/problems/majority-element/)  | Easy  | [C++](./algorithms/majority-element/majority-element.cpp)  |
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  | Medium  | [C++](./algorithms/bestTimeToBuyAndSellStock/bestTimeToBuyAndSellStock.cpp)  |
 | 112  | [Path Sum](https://leetcode.com/problems/path-sum/)  | Easy  | [C++](./algorithms/path-sum/path-sum.cpp)  |
