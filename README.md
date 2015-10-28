@@ -17,6 +17,7 @@
 | 191  | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)  | Easy  | [C++](./algorithms/numberOf1Bits/numberOf1Bits.cpp)  |
 | 169  | [Majority Element](https://leetcode.com/problems/majority-element/)  | Easy  | [C++](./algorithms/majority-element/majority-element.cpp)  |
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  | Medium  | [C++](./algorithms/bestTimeToBuyAndSellStock/bestTimeToBuyAndSellStock.cpp)  |
+| 112  | [Path Sum](https://leetcode.com/problems/path-sum/)  | Easy  | [C++](./algorithms/path-sum/path-sum.cpp)  |
 | 107  | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)  | Easy  | [C++](./algorithms/binaryTreeLevelOrderTraversalII/binaryTreeLevelOrderTraversalII.cpp)  |
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)  | Easy  | [C++](./algorithms/maximumDepthOfBinaryTree/maximumDepthOfBinaryTree.cpp)  |
 | 102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)  | Easy  | [C++](./algorithms/binaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.cpp)  |
