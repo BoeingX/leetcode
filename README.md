@@ -4,6 +4,7 @@
 
 | #  | title  | difficulty  | solution  |
 |:---:|:---:|:---:|:---:|
+| 292  | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)  | Easy  | [C++](./algorithms/sum-of-left-leaves/sum-of-left-leaves.cpp)  |
 | 292  | [Nim Game](https://leetcode.com/problems/nim-game/)  | Easy  | [C++](./algorithms/nimGame/nimGame.cpp)  |
 | 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)  | Easy  | [C++](./algorithms/moveZeroes/moveZeroes.cpp)  |
 | 268  | [Missing Number](https://leetcode.com/problems/missing-number/)  | Medium  | [C++](./algorithms/missingNumber/missingNumber.cpp)  |
@@ -30,6 +31,7 @@
 | 102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)  | Easy  | [C++](./algorithms/binaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.cpp)  |
 | 100  | [Same Tree](https://leetcode.com/problems/same-tree/)  | Easy  | [C++](./algorithms/sameTree/sameTree.cpp)  |
 | 66  | [Plus One](https://leetcode.com/problems/plus-one/)  | Easy  | [C++](./algorithms/plus-one/plus-one.cpp)  |
+| 53  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)  | Medium  | [C++](./algorithms/maximum-subarray/maximum-subarray.cpp)  |
 | 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)  | Easy  | [C++](./algorithms/valid-parentheses/valid-parentheses.cpp)  |
 | 19  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)  | Easy  | [C++](./algorithms/remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.cpp)  |
 | 9  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)  | Easy  | [C++](./algorithms/palindrome-number/palindrome-number.cpp)  |
